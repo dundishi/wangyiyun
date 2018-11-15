@@ -1,0 +1,46 @@
+/* pages/find/index.wxss */
+.weui-search-bar__cancel-btn{
+  color: #d43c33;
+  font-size: 14px; 
+}
+.weui-cells{
+  margin-top: 0;
+}
+.weui-navbar__slider{
+  width: 5em;
+  background-color: #d43c33;
+}
+.weui-navbar__title{
+  color: #d43c33;
+}
+.swiper-image{
+  width: 100%;
+}
+.circle-image{
+  width: 40px;
+  height: 40px;
+}
+.header{
+  margin: 5px 0;
+}
+.header-c{
+  border-left: 2px solid #d43c33;
+  padding: 0 8px;
+  font-size: 17px;
+}
+.lists-content{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+}
+.recommend{
+  width:45%;
+  margin: 0 auto;
+}
+.recommend-image{
+  width: 100%;
+}
+.recommend-name{
+  margin-bottom: 15px;
+  font-size: 12px;
+}
